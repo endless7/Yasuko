@@ -15,7 +15,7 @@ thank you for theme from @halfrost
 
 新的博客主题名叫「Yasuko 康子]，依旧开源在[Github/Yasuko](https://github.com/foru17/Yasuko)上，只需稍作配置，就能用到你自己的[Ghost](http://ghost.org/)博客上。
 
-##首先讲一个故事
+#### 首先讲一个故事
 
 这篇博文开头，我先不讲Ghost这个主题有什么新功能，我要讲一个叫[难波康子（Namba Yasuko)](https://ja.wikipedia.org/wiki/%E9%9B%A3%E6%B3%A2%E5%BA%B7%E5%AD%90)的日本女人的故事。
 
@@ -31,7 +31,7 @@ thank you for theme from @halfrost
 
 今年上映的电影[《绝命海拔》](http://movie.douban.com/subject/22265299/)之中，讲述的就是96年这次珠峰事故的故事，推荐大家有机会可以去看看。上图的前排右一就是难波康子。
 
-##关于为什么要叫这个名字
+#### 关于为什么要叫这个名字
 
 其实我并没有看过《绝命海拔》这部电影，之所以取这个名字，就跟我的上一个Ghost主题[Nevecoo](https://luolei.org/theme-nevecoo/)一样，取名的时候并没有想什么特殊的含义，就是随意而为。
 在谷歌中随意输入几个字符，点击搜索，就这么看到了Yasuko的故事。
